@@ -82,7 +82,7 @@ joblib.dump(scaler, "scaler.joblib")
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/diabetes-predictor.git
+git clone https://github.com/Harsha-pandey9/Diabetes_Predidtion.git
 cd diabetes-predictor
 ```
 
@@ -149,4 +149,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍⚕️ Created with ❤️ by Adarsh Paswan
+## 👨‍⚕️ Created with ❤️ by Harsha Pandey
